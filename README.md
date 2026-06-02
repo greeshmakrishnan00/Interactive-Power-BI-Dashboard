@@ -1,4 +1,4 @@
-# Power BI Dashboard Portfolio
+# 📈 Power BI Dashboard Portfolio
 
 A collection of interactive dashboards created using Microsoft Power BI Desktop. This repository showcases data visualization, analytics, KPI tracking, and business intelligence projects using real-world datasets across multiple domains including gaming, healthcare, road accidents, and more.
 
